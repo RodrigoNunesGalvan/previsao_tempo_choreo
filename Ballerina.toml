@@ -1,0 +1,8 @@
+[package]
+org = "rodrigo"
+name = "previsao_tempo_choreo"
+version = "0.1.0"
+distribution = "2201.8.6"
+
+[build-options]
+observabilityIncluded = true
